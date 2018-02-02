@@ -1,3 +1,3 @@
 # Asistentes curso Git
 
-- Óscar R. Fernández
+- Óscar R. Fernández Sanchez
